@@ -1,2 +1,16 @@
-# BmiCalculator
-The BMI Calculator Flutter app swiftly computes Body Mass Index (BMI) based on user-entered height and weight, presenting results alongside health classifications. Users receive instant insights into their BMI status, facilitating informed decisions towards achieving and maintaining a healthy lifestyle.
+# bmi_calculator
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
